@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramasubramanian-S
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently learning python, Dart, Flutter etc... 
-- 💞️ I love Google
+- 👀 interested in Open Source
+- 🌱 buddimg Flutter and Cloud dev... 
+- 💞️ creativist-innovator-ambivert
 - 📫 ping a mail Ramasubramanian26113@gmail.com ... 
 
 <!---
