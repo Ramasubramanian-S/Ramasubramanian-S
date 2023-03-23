@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramasubramanian-S
+- 👋 send me a Hi @Ramasubramanian-S
 - 👀 Open Source Pirate
 - 🌱 budding Flutter and Cloud dev... 
 - 💞️ creativist-innovator-ambivert
