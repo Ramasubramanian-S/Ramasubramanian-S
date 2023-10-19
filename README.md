@@ -1,7 +1,7 @@
 - 👋 Send me a Hi @Ramasubramanian-S
-- 👀 Open Source Pirate
-- 🌱 Budding Flutter and Cloud dev... 
-- 💞️ Creativist-innovator-ambivert
+- 👀 Metabeing
+- 🌱 Budding 3D and AR dev... 
+- 💞️ Creativist-Innovator-PositiveBean
 - 📫 Ping a mail Ramasubramanian26113@gmail.com ... 
 
 <!---
